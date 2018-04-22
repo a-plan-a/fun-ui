@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_scan.png",
+        "source": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_scan.png"
+    },
+    {
+        "merged": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_refresh.png",
+        "source": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    }
+]

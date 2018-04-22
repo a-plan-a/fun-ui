@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/tusm/eclipse-workspace/fun-ui/platforms/android/app/src/main/res/menu/main_scan.xml"
+    }
+]
